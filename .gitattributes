@@ -1,0 +1,5 @@
+* text=auto
+*.wasm -text
+*.data -text
+*.bundle -text
+*.bin -text
